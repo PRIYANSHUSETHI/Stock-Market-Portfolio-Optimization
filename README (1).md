@@ -119,15 +119,9 @@ Get a bird’s-eye view of which stocks move together. Perfect for portfolio div
 
 ## 📬 Let’s Connect!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourname)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-sethi-bitsh/)
 - 🌟 If you like it, leave a **star** on the repo!
 - 👀 Suggestions? Open an [issue](https://github.com/yourusername/stock-portfolio-optimizer/issues)
-
----
-
-## 📄 License
-
-MIT License — free to use, tweak, and build upon. Just show some love! 💚
 
 ---
 
