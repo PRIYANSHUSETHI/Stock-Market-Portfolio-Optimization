@@ -1,4 +1,4 @@
-# 📈 Stock Market Portfolio Optimization with Python 🧠💸
+# 📈 Stock Market Portfolio Optimization with Python💸
 
 Welcome to a **creative, intuitive, and slightly crazy** project that blends finance, data science, and design. This repo is built for those who love plotting, playing with data, and pushing boundaries.
 
