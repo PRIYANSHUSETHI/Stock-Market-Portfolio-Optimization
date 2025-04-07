@@ -10,8 +10,7 @@ Welcome to a **creative, intuitive, and slightly crazy** project that blends fin
 
 ✅ Real-time stock data via **YFinance**  
 📉 Visuals for **moving averages**, **volume**, and **daily returns**  
-📊 Aesthetic **correlation heatmaps**  
-🌦️ (*Coming soon*) Time-varying risk models with **weather data**  
+📊 Aesthetic **correlation heatmaps**   
 📈 Ready for **portfolio optimization**, **risk analysis**, and more  
 
 ---
@@ -21,8 +20,6 @@ Welcome to a **creative, intuitive, and slightly crazy** project that blends fin
 ```bash
 📂 stock-portfolio-optimizer/
 ├── stock_analysis.py       # Main script
-├── requirements.txt        # Dependencies
-├── assets/                 # Saved plot images
 └── README.md               # You’re here!
 ```
 
